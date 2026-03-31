@@ -83,18 +83,4 @@
 
 ---
 
-## 🔝 Top Contributed Repo:
-<p align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=Palak-gupta-create&limit=5&theme=radical" />
-</p>
-
----
-
-## 👀 Profile Views:
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=Palak-gupta-create&icon=5&color=6" />
-</p>
-
----
-
 <h3 align="center">✨ Thanks for visiting my profile ✨</h3>
